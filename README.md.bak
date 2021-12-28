@@ -1,19 +1,17 @@
-# First-Repository
-Repository course Git/GitHub by Digital Innovation One
+# Primeiro-Repositorio
+Repositorio Curso Git/GitHub da Digital Innovation One
 
+</hr>
 
+## Comandos Básicos de Navegação
 
-## Basic CLI navigation commands
-
-
+</hr>
 
 <p align="center">
 
   <h3 align="center">Git/GitHub</h3>
-
-<img src="(https://user-images.githubusercontent.com/58536348/147591794-324c58f8-be09-4960-a12f-a30a0902d539.png)" alt="Logo" width=72 height=72>
-
-<img src="(https://user-images.githubusercontent.com/58536348/147591931-ad0ebc3a-ddc1-4118-a80f-07c8ed82b7ee.png)" alt="Logo" width=72 height=72>
+  
+  <img src="https://via.placeholder.com/72" alt="Logo" width=72 height=72>
 
   <p align="center">
     Short description
@@ -32,11 +30,11 @@ Repository course Git/GitHub by Digital Innovation One
 
 ## Quick start
 
-Commands used to start, add and commit the repository in git
+Some text
 
-- git init
-- git add
-- git commit
+- Instruction 1
+- Instruction 2
+- Instruction 3
 
 
 ## What's included
